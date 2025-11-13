@@ -113,3 +113,5 @@ fn test_error() {
         Err(String::from("division by zero"))
     );
 }
+
+fn main() {}
